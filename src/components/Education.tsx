@@ -38,7 +38,7 @@ const Education = () => {
   ];
 
   return (
-    <section id="education" ref={ref} className="py-20 px-4 sm:px-6 lg:px-80">
+    <section id="education" ref={ref} className="py-20 px-4 sm:px-6 lg:px-16 xl:px-48 2xl:px-80">
       <div className="max-w-7xl mx-auto">
         <motion.div
           initial={{ opacity: 0, y: 50 }}
